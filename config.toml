@@ -1,0 +1,5 @@
+[video]
+  #target_display_name = "eDP-1"                           # Replace with a valid display name on your test rig
+  target_display_name = "DP-9"                           # Replace with a valid display name on your test rig
+  #target_display_name = "DP-8"                           # Replace with a valid display name on your test rig
+  filepath = "/home/richbl/downloads/BSC/video_italy.mp4" # Replace with a valid test video
